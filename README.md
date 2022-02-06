@@ -1,2 +1,2 @@
-# gramma-counter
-Gramma Counter
+# Gramma Counter
+Gramma identification and teaching
